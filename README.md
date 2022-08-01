@@ -22,8 +22,7 @@
   
   From root directory, run "npm start" to initiate the server and to provide a link to it. Or click on the link provided in this README
   
-      md
-      ![Demo for the command line prompts and output for readme generator](../demo/readme-generator-demo.webm.mov)
+  (deployed from heroku): https://note-taker-cmw.herokuapp.com/
      
   
   ## Credits
